@@ -1,0 +1,12 @@
+The goal for this project is that you recreate a page that looks like the image below. This is going to require a lot of trial and error. The concepts that you will use will be:
+
+background color
+background image (just find a free image from the internet)
+color
+margin
+padding
+text-align
+font-family
+height
+Proper use of container elements(divs)
+classes
